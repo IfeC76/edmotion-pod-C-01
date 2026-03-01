@@ -4,10 +4,10 @@
 
 - **Pod Name:** **EdMotion-Pod-C-Alpha]**
 - **Members:**
-  - [ ] OSHUNTOLU OLUWATOSIN — GitHub: https://github.com/oshuntoluno/Oshuntolu
-  - [ ] ONYECHE DEBORAH — GitHub: https://github.com/Derbiecomet/Derbiecomet
-  - [ ] ANUNGAR GODFREY JOHN — GitHub: https://github.com/golfsong707
-  - [ ] IFECHUKWUDE STEPHEN IGBO — GitHub: https://github.com/IfeC76/IfeC76
+  - ⬛ OSHUNTOLU OLUWATOSIN — GitHub: oshuntoluno
+  - ⬛ ONYECHE DEBORAH — GitHub: Derbiecomet
+  - ⬛ ANUNGAR GODFREY JOHN — GitHub: golfsong707
+  - ⬛ IFECHUKWUDE STEPHEN IGBO — GitHub: IfeC76
 
 ---
 
@@ -34,7 +34,7 @@
 |--------|:-:|:-:|:-:|:-:|:-:|:-:|
 | OSHUNTOLU OLUWATOSIN | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
 | ONYECHE DEBORAH | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
-| ANUNGAR GODFREY JOHN | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
+| ANUNGAR GODFREY JOHN | ✅ | ✅ | ✅ | ✅ | ⬜ | ✅ |
 | IFECHUKWUDE STEPHEN IGBO | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
 
 ### Milestone 4: Portfolio Site
@@ -42,7 +42,7 @@
 |--------|:-:|:-:|:-:|:-:|:-:|
 | OSHUNTOLU OLUWATOSIN | ✅ | ⬜ | ✅ | ✅ | ✅ |
 | ONYECHE DEBORAH | ✅ | ⬜ | ✅ | ✅ | ✅ |
-| ANUNGAR GODFREY JOHN | ✅ | ⬜ | ✅ | ✅ | ✅ |
+| ANUNGAR GODFREY JOHN | ✅ | ✅ | ✅ | ✅ | ✅ |
 | IFECHUKWUDE STEPHEN IGBO | ✅ | ⬜ | ✅ | ✅ | ✅ |
 
 ---
@@ -53,61 +53,10 @@ Add each member's links as they complete milestones:
 
 | Member | GitHub Profile | Portfolio Site | Data Project Repo |
 |--------|---------------|----------------|-------------------|
-| OSHUNTOLU OLUWATOSIN | | | |
-| ONYECHE DEBORAH | | | |
-| ANUNGAR GODFREY JOHN | | | |
-| IFECHUKWUDE STEPHEN IGBO | | | |
+| OSHUNTOLU OLUWATOSIN |https://github.com/oshuntoluno/Oshuntolu |https://github.com/oshuntoluno/my_data_project.git | |
+| ONYECHE DEBORAH |https://github.com/Derbiecomet/Derbiecomet |https://derbiecomet.github.io/Derbiecomet/ | |
+| ANUNGAR GODFREY JOHN |https://github.com/golfsong707 |https://golfsong707.github.io/-my-project/#about |https://github.com/golfsong707/titanic-survival-analysis |
+| IFECHUKWUDE STEPHEN IGBO |https://github.com/IfeC76/IfeC76 |https://ifec76.github.io/IfeC76/ |https://github.com/IfeC76/My_Superstore_stores_Data_Project |
 
 ---
-
-**Replace ⬜ with ✅ as tasks are completed.**
-
-
-
-
-
-
-
-
-
-
-
-# edmotion-pod-C-01
-
-OSHUNTOLU OLUWATOSIN POD TASK (milestone 1-4)
-
-- Milestone 1 GitHub account setup done
-
-- This is the link to my milestone 2:
-
-- This is Oshuntolu Oluwatosin Github Profile link: https://github.com/oshuntoluno/Oluwatosin-Oshuntolu.git
-
-- This is the link to my milestone 3:
-
-My Project: https://github.com/oshuntoluno/my_data_project.git
-
-- This is the link to my milestone 4:
-
-Oluwatosin Oshuntolu website portfiolo: https://github.com/oshuntoluno/oshuntoluno.github.io.git
-
-- This is Onyeche Deborah's profile link: https://github.com/Derbiecomet/Derbiecomet
-- 
-- This is Ifechukwude Stephen Igbo Profile Link: https://github.com/IfeC76/IfeC76
-- My Project https://github.com/IfeC76/My_Superstore_stores_Data_Project
-- Website https://ifec76.github.io/IfeC76/
-  
-
--ANUNGAR GODFREY JOHN POD TASK (milestone 1-4)
-
-
-- This is the link to my milestone 1:
-- Milestone 1 GitHub account setup done :https://github.com/golfsong707
-- This is the link to my milestone 2:
-- This is Anungar Godfrey Github Profile link: https://github.com/golfsong707
-
-- This is the link to my milestone 3:
-- My Project: https://github.com/golfsong707/titanic-survival-analysis
-
-- This is the link to my milestone 4:
-- Anungar Godfrey website portfiolo: https://golfsong707.github.io/-my-project/#about
 
