@@ -1,6 +1,21 @@
 # edmotion-pod-C-01
-- This is Oluwatosin Oshuntolu Github Profile link: https://github.com/oshuntoluno/Oluwatosin-Oshuntolu.git
--
+
+OSHUNTOLU OLUWATOSIN POD TASK (milestone 1-4)
+
+Milestone 1 GitHub account setup done
+
+This is the link to my milestone 2:
+
+This is Oshuntolu Oluwatosin Github Profile link: https://github.com/oshuntoluno/Oluwatosin-Oshuntolu.git
+
+This is the link to my milestone 3:
+
+My Project: https://github.com/oshuntoluno/my_data_project.git
+
+This is the link to my milestone 4:
+
+Oluwatosin Oshuntolu website portfiolo: https://github.com/oshuntoluno/oshuntoluno.github.io.git
+
 - This is Onyeche Deborah's profile link: https://github.com/Derbiecomet/Derbiecomet
 - This is Ifechukwude Stephen Igbo Profile Link: https://github.com/IfeC76/IfeC76
 
