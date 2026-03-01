@@ -18,6 +18,9 @@ Oluwatosin Oshuntolu website portfiolo: https://github.com/oshuntoluno/oshuntolu
 
 - This is Onyeche Deborah's profile link: https://github.com/Derbiecomet/Derbiecomet
 - This is Ifechukwude Stephen Igbo Profile Link: https://github.com/IfeC76/IfeC76
+- My Project https://github.com/IfeC76/My_Superstore_stores_Data_Project
+- Website https://ifec76.github.io/IfeC76/
+  
 
 -ANUNGAR GODFREY JOHN POD TASK (milestone 1-4)
 
