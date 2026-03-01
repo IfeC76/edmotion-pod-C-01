@@ -1,3 +1,77 @@
+# EdMotion Pod Checklist
+
+## Pod Info
+
+- **Pod Name:** **EdMotion-Pod-C-Alpha]**
+- **Members:**
+  - [ ] OSHUNTOLU OLUWATOSIN — GitHub: https://github.com/oshuntoluno/Oshuntolu
+  - [ ] ONYECHE DEBORAH — GitHub: https://github.com/Derbiecomet/Derbiecomet
+  - [ ] ANUNGAR GODFREY JOHN — GitHub: https://github.com/golfsong707
+  - [ ] IFECHUKWUDE STEPHEN IGBO — GitHub: https://github.com/IfeC76/IfeC76
+
+---
+
+## Progress Tracker
+
+### Milestone 1: GitHub Setup
+| Member | Account Created | Git Installed | Forked Repo | Joined Pod Repo |
+|--------|:-:|:-:|:-:|:-:|
+| OSHUNTOLU OLUWATOSIN | ✅ | ✅ | ✅ | ✅ |
+| ONYECHE DEBORAH | ✅ | ✅ | ✅ | ✅ |
+| ANUNGAR GODFREY JOHN | ✅ | ✅ | ✅ | ✅ |
+| IFECHUKWUDE STEPHEN IGBO | ✅ | ✅ | ✅ | ✅ |
+
+### Milestone 2: Profile README
+| Member | Repo Created | README Written | Analyst Positioning | Pod Review Done |
+|--------|:-:|:-:|:-:|:-:|
+| OSHUNTOLU OLUWATOSIN | ✅ | ✅ | ✅ | ✅ |
+| ONYECHE DEBORAH | ✅ | ✅ | ✅ | ✅ |
+| ANUNGAR GODFREY JOHN | ✅ | ✅ | ✅ | ✅ |
+| IFECHUKWUDE STEPHEN IGBO | ✅ | ✅ | ✅ | ✅ |
+
+### Milestone 3: First Data Project
+| Member | Repo Created | Data Structured | Analysis Done | README with Findings | 6+ Commits | Pod Review Done |
+|--------|:-:|:-:|:-:|:-:|:-:|:-:|
+| OSHUNTOLU OLUWATOSIN | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
+| ONYECHE DEBORAH | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
+| ANUNGAR GODFREY JOHN | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
+| IFECHUKWUDE STEPHEN IGBO | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
+
+### Milestone 4: Portfolio Site
+| Member | Site Built | Charts Embedded | GitHub Pages Live | Everything Linked | Final Review Done |
+|--------|:-:|:-:|:-:|:-:|:-:|
+| OSHUNTOLU OLUWATOSIN | ✅ | ⬜ | ✅ | ✅ | ✅ |
+| ONYECHE DEBORAH | ✅ | ⬜ | ✅ | ✅ | ✅ |
+| ANUNGAR GODFREY JOHN | ✅ | ⬜ | ✅ | ✅ | ✅ |
+| IFECHUKWUDE STEPHEN IGBO | ✅ | ⬜ | ✅ | ✅ | ✅ |
+
+---
+
+## Pod Links
+
+Add each member's links as they complete milestones:
+
+| Member | GitHub Profile | Portfolio Site | Data Project Repo |
+|--------|---------------|----------------|-------------------|
+| OSHUNTOLU OLUWATOSIN | | | |
+| ONYECHE DEBORAH | | | |
+| ANUNGAR GODFREY JOHN | | | |
+| IFECHUKWUDE STEPHEN IGBO | | | |
+
+---
+
+**Replace ⬜ with ✅ as tasks are completed.**
+
+
+
+
+
+
+
+
+
+
+
 # edmotion-pod-C-01
 
 OSHUNTOLU OLUWATOSIN POD TASK (milestone 1-4)
