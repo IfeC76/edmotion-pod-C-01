@@ -53,7 +53,7 @@ Add each member's links as they complete milestones:
 
 | Member | GitHub Profile | Portfolio Site | Data Project Repo |
 |--------|---------------|----------------|-------------------|
-| OSHUNTOLU OLUWATOSIN |https://github.com/oshuntoluno/Oshuntolu |https://github.com/oshuntoluno/my_data_project.git | |
+| OSHUNTOLU OLUWATOSIN |https://github.com/oshuntoluno/Oshuntolu  | | https://github.com/oshuntoluno/my_data_project.git |
 | ONYECHE DEBORAH |https://github.com/Derbiecomet/Derbiecomet |https://derbiecomet.github.io/Derbiecomet/ | |
 | ANUNGAR GODFREY JOHN |https://github.com/golfsong707 |https://golfsong707.github.io/-my-project/#about |https://github.com/golfsong707/titanic-survival-analysis |
 | IFECHUKWUDE STEPHEN IGBO |https://github.com/IfeC76/IfeC76 |https://ifec76.github.io/IfeC76/ |https://github.com/IfeC76/My_Superstore_stores_Data_Project |
