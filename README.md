@@ -2,12 +2,12 @@
 
 ## Pod Info
 
-- **Pod Name:** **EdMotion-Pod-C-Alpha]**
+- **Pod Name:** **EdMotion-Pod-C-Alpha**
 - **Members:**
-  - ⬛ OSHUNTOLU OLUWATOSIN — GitHub: oshuntoluno
-  - ⬛ ONYECHE DEBORAH — GitHub: Derbiecomet
-  - ⬛ ANUNGAR GODFREY JOHN — GitHub: golfsong707
-  - ⬛ IFECHUKWUDE STEPHEN IGBO — GitHub: IfeC76
+- ⬛ OSHUNTOLU OLUWATOSIN — GitHub: oshuntoluno
+- ⬛ ONYECHE DEBORAH — GitHub: Derbiecomet
+- ⬛ ANUNGAR GODFREY JOHN — GitHub: golfsong707
+- ⬛ IFECHUKWUDE STEPHEN IGBO — GitHub: IfeC76
 
 ---
 
@@ -32,10 +32,10 @@
 ### Milestone 3: First Data Project
 | Member | Repo Created | Data Structured | Analysis Done | README with Findings | 6+ Commits | Pod Review Done |
 |--------|:-:|:-:|:-:|:-:|:-:|:-:|
-| OSHUNTOLU OLUWATOSIN | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
-| ONYECHE DEBORAH | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
-| ANUNGAR GODFREY JOHN | ✅ | ✅ | ✅ | ✅ | ⬜ | ✅ |
-| IFECHUKWUDE STEPHEN IGBO | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ✅ |
+| OSHUNTOLU OLUWATOSIN | ✅ | ✅ | ✅ | ⬜ | ✅ | ✅ |
+| ONYECHE DEBORAH | ✅ | ⬜ | ⬜ | ⬜ | ✅ | ✅ |
+| ANUNGAR GODFREY JOHN | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| IFECHUKWUDE STEPHEN IGBO | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ### Milestone 4: Portfolio Site
 | Member | Site Built | Charts Embedded | GitHub Pages Live | Everything Linked | Final Review Done |
