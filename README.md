@@ -59,4 +59,5 @@ Add each member's links as they complete milestones:
 | IFECHUKWUDE STEPHEN IGBO |https://github.com/IfeC76/IfeC76 |https://ifec76.github.io/IfeC76/ |https://github.com/IfeC76/My_Superstore_stores_Data_Project |
 
 ---
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+What we are doinging together as a group
